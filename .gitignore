@@ -1,0 +1,10 @@
+
+# Folders
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+Script/*
+
+# testing
+/Build
